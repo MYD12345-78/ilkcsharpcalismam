@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197 d17.13
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.videoc#_temelkonular", "1.videoc#_temelkonular\1.videoc#_temelkonular.csproj", "{F5B524A1-6D7E-40A2-B19E-5567A47DD112}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F5B524A1-6D7E-40A2-B19E-5567A47DD112}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F5B524A1-6D7E-40A2-B19E-5567A47DD112}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F5B524A1-6D7E-40A2-B19E-5567A47DD112}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F5B524A1-6D7E-40A2-B19E-5567A47DD112}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62410F81-0D9B-49D3-8467-2FE91F3F55EA}
+	EndGlobalSection
+EndGlobal
